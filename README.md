@@ -18,7 +18,7 @@ It performs automated financial calculations based on user input such as loan am
 - Financial formulas implementation
 
 ## Academic Result
-Grade achieved: 98/100 (A)
+Grade achieved: 34/34 (A)
 
 ## Author
 Peter Shehata
